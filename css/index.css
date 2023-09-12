@@ -1,0 +1,65 @@
+/* 欢迎使用guiPlan,以下代码均由guiPlan软件生成，如有疑问添加添加作者微信guiplan或加入学习交流qq群711964722  */
+.main {
+    margin: 0px;
+    padding: 0px;
+}
+
+.zhangxiashabicssStart {}
+
+.u5bd3a {
+    width: 333px;
+    height: 333px;
+}
+
+.u7da4f {
+    width: 333px;
+    height: 403px;
+}
+
+.ua4563 {
+    width: 333px;
+    height: 333px;
+}
+
+.u2089c {
+    width: 401px;
+    height: 401px;
+}
+
+.u4ec4b {
+    background-repeat: no-repeat;
+    background-position-y: 106%;
+}
+
+.ua75df {
+    margin-top: 3.7em;
+}
+
+.u48dd2 {
+    width: 100%;
+    min-height: 12em;
+}
+
+.u5737f {
+    z-index: -2 !important;
+}
+
+.u6227d {
+    z-index: -2 !important;
+}
+
+.u2753f {
+    left: 10%;
+}
+
+.u25f18 {
+    right: 10%;
+}
+
+@media (min-width: 992px) {
+    .ua75df {
+        margin-top: 0em;
+    }
+}
+
+.zhangxiashabicssEnd {}
